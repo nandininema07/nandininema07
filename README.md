@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nandini Nema</h1>
-<h3 align="center">A passionate Full Stack Developer from Mumbai, India</h3>
+<h3 align="center">A passionate Developer from Mumbai, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;2nd+year+IT+Student;Always+learning+something+new!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Tech+Enthusiast;2nd+year+IT+Student;Always+learning+something+new!" alt="Typing SVG" />
 </p>
 
 ---
 
-- 🌱 I’m currently learning **Cloud Development & DevOps**
+- 🌱 I’m currently learning **ML, Cloud Development & DevOps**
 - 🔭 I’m working on multiple exciting **React + Flask projects**
 - 💬 Ask me about **Web Dev, Python, and Open Source**
 - 👨‍💻 All my projects are available at [my portfolio](#) <!-- Add your portfolio link if you have one -->
