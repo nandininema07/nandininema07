@@ -13,7 +13,7 @@
 - 👨‍💻 All my projects are available at [my portfolio](#) <!-- Add your portfolio link if you have one -->
 - 📫 How to reach me **nandininema07@gmail.com**
 - 📄 Know about my experiences [here](#) <!-- Add resume link if you want -->
-- ⚡ Fun fact: I love designing + building intuitive UI/UX!
+- ⚡ Fun fact: I love designing + building intuitive UI/UX! [my UI/UX portfolio](https://linktr.ee/nandininema07)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nandini-nema-a6914528b/" target="_blank">
