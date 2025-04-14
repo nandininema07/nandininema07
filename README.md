@@ -29,7 +29,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,react,nodejs,express,tailwind,bootstrap,flask,mongodb,firebase,docker,aws,figma,git,github,vscode,jupyter" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,react,nodejs,express,tailwind,bootstrap,flask,mongodb,firebase,docker,aws,figma,git,github,vscode,jupyter,spline" />
 </p>
 
 ---
