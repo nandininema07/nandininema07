@@ -15,7 +15,7 @@
 - 📄 Know about my experiences [here](#) <!-- Add resume link if you want -->
 - ⚡ Fun fact: I love designing + building intuitive UI/UX! [my UI/UX portfolio](https://linktr.ee/nandininema07)
 
-![](https://komarev.com/ghpvc/?username=nandininema07&color=yellow)
+![](https://komarev.com/ghpvc/?username=nandininema07&color=blue)
 <p align="left">
   <a href="https://www.linkedin.com/in/nandini-nema-a6914528b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
