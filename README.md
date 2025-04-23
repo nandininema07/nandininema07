@@ -42,6 +42,12 @@
 </p>
 
 <p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=nandininema07" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandininema07&layout=compact&theme=tokyonight" alt="languages" />
 </p>
 
