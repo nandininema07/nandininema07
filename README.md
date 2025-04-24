@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=nandininema07" alt="GitHub Streak" />
+    <img src="https://nirzak-streak-stats.vercel.app?user=nandininema07&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
 
