@@ -10,10 +10,10 @@
 - 🌱 I’m currently learning **ML, Cloud Development & DevOps**
 - 🔭 I’m working on multiple exciting **React + Flask projects**
 - 💬 Ask me about **Web Dev, Python, and Open Source**
-<!-- - 👨‍💻 All my projects are available at [my portfolio](#) <!-- Add your portfolio link if you have one -->
 - 📫 How to reach me **nandininema07@gmail.com**
-<!-- - 📄 Know about my experiences [here](#) <!-- Add resume link if you want -->
 - ⚡ Fun fact: I love designing + building intuitive UI/UX! [my UI/UX portfolio](https://linktr.ee/nandininema07)
+<!-- - 👨‍💻 All my projects are available at [my portfolio](#) <!-- Add your portfolio link if you have one -->
+<!-- - 📄 Know about my experiences [here](#) <!-- Add resume link if you want -->
 
 ![](https://komarev.com/ghpvc/?username=nandininema07&color=blue)
 <p align="left">
