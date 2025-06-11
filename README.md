@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Developer from Mumbai, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Tech+Enthusiast;2nd+year+IT+Student;Always+learning+something+new!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Tech+Enthusiast;3rd+year+IT+Student;Always+learning+something+new!" alt="Typing SVG" />
 </p>
 
 ---
