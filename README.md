@@ -13,7 +13,7 @@
 - 📫 How to reach me **nandininema07@gmail.com**
 - ⚡ Fun fact: I love designing + building intuitive UI/UX! [my UI/UX portfolio](https://linktr.ee/nandininema07)
 - 👨‍💻 All my projects are available at [my portfolio](https://portfolio-website-nandini.vercel.app/) <!-- Add your portfolio link if you have one -->
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1ATHLqOvQnZ1lN7oEWrjTzFqAcZfLkXFb/view?usp=sharing) <!-- Add resume link if you want -->
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1t8S62NRxEdTE7NXnVrc_oNV_61SObt_e/view?usp=sharing) <!-- Add resume link if you want -->
 
 ![](https://komarev.com/ghpvc/?username=nandininema07&color=blue)
 <p align="left">
