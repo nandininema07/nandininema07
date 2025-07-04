@@ -7,13 +7,14 @@
 
 ---
 
-- 🌱 I’m currently learning **ML, Cloud Development & DevOps**
+- 🌱 I’m currently learning **GenAI, ML & DevOps**
 - 🔭 I’m working on multiple exciting **React + Flask projects**
 - 💬 Ask me about **Web Dev, Python, and Open Source**
 - 📫 How to reach me **nandininema07@gmail.com**
-- ⚡ Fun fact: I love designing + building intuitive UI/UX! [my UI/UX portfolio](https://linktr.ee/nandininema07)
 - 👨‍💻 All my projects are available at [my portfolio](https://portfolio-website-nandini.vercel.app/) <!-- Add your portfolio link if you have one -->
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1t8S62NRxEdTE7NXnVrc_oNV_61SObt_e/view?usp=sharing) <!-- Add resume link if you want -->
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1iwn4cULvnw9eTAH_cB0v1NAU79kEYK4m/view?usp=sharing) <!-- Add resume link if you want -->
+- ⚡ Fun fact: I love designing + building intuitive UI/UX! [my UI/UX portfolio](https://linktr.ee/nandininema07)
+- 📝 Check out my articles on [Medium](https://medium.com/@nandininema07)
 
 ![](https://komarev.com/ghpvc/?username=nandininema07&color=blue)
 <p align="left">
