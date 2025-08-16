@@ -118,14 +118,18 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandininema07&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nandininema07&theme=tokyonight&hide_border=true" alt="Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nandininema07&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandininema07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=nandininema07&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandininema07&layout=compact&theme=tokyonight" alt="languages" />
+</p>
