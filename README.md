@@ -43,6 +43,18 @@
 
 ---
 
+### 🔥 Highlights  
+- **Architected** scalable systems at IIT Bombay as a Full Stack Development Intern.
+- **Semi-Finalist** at Adobe India Hackathon (2025)  
+- **1st Place** in Data 2 Knowledge Hackathon (2025)
+- **1st Runner Up** in Frontend Arena Hackathon by Rajiv Gandhi Institute of Technology (2025)
+- **Finalist** in DevQuest Hackathon conducted by IIT Jodhpur (2025)
+- **Finalist** in NASA Space Apps Challenge (2024)
+- **Top 10** in Pixel Paranoia UI/UX Hackathon (2024)
+- **Top 6 All-India** at Smart India Hackathon (2023)  
+
+---
+
 ### 🛠️ **Tech Stack**
 
 #### **Programming Languages**
@@ -103,18 +115,6 @@
   <img src="https://img.shields.io/badge/REST_API-FF6C37?logo=postman&logoColor=white" alt="REST API">
   <img src="https://img.shields.io/badge/Algorithms-00AAEE?logo=leetcode&logoColor=white" alt="Algorithms">
 </div>
-
----
-
-### 🔥 Highlights  
-- **Architected** scalable systems at IIT Bombay as a Full Stack Development Intern.
-- **Semi-Finalist** at Adobe India Hackathon (2025)  
-- **1st Place** in Data 2 Knowledge Hackathon (2025)
-- **1st Runner Up** in Frontend Arena Hackathon by Rajiv Gandhi Institute of Technology (2025)
-- **Finalist** in DevQuest Hackathon conducted by IIT Jodhpur (2025)
-- **Finalist** in NASA Space Apps Challenge (2024)
-- **Top 10** in Pixel Paranoia UI/UX Hackathon (2024)
-- **Top 6 All-India** at Smart India Hackathon (2023)  
 
 ---
 
